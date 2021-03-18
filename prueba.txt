@@ -1,2 +1,3 @@
 hola como estas
 este archivo cambia completamente...
+esta linea es solo para probar git add am
